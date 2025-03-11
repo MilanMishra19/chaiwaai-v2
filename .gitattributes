@@ -1,0 +1,7 @@
+Chaiwaai/* filter=lfs diff=lfs merge=lfs -text
+public/* filter=lfs diff=lfs merge=lfs -text
+/src/assets/svg* filter=lfs diff=lfs merge=lfs -text
+/src/constants/* filter=lfs diff=lfs merge=lfs -text
+/src/pages/* filter=lfs diff=lfs merge=lfs -text
+/src/sections/* filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text
