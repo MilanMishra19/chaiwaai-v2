@@ -6,7 +6,7 @@ import Header from "../sections/Header";
 import Section from "../sections/Section";
 import styled, { keyframes } from 'styled-components'; 
 
-const API_BASE_URL = 'https://chaiwaai-v2-1.onrender.com/'; // Backend server URL
+const API_BASE_URL = 'https://chaiwaai-v2-1.onrender.com'; // Backend server URL
 
 // Keyframes for animations
 const fadeIn = keyframes`
